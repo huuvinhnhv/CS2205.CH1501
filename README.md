@@ -22,4 +22,4 @@
 
 - Nguyễn Phúc Thịnh - CH2001038 - Repos: https://github.com/thinhnguyen0803/CS2205.CH1501
 
-- Nguyễn Xuân Thảo - - Repos: https://github.com/thaoqwerty/CS2205.CH1501
+- Nguyễn Xuân Thảo - CH2004016 - Repos: https://github.com/thaoqwerty/CS2205.CH1501
