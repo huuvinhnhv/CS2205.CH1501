@@ -53,6 +53,7 @@
 
 <a href="https://imgur.com/tDf4Mom"><img src="https://i.imgur.com/tDf4Mom.png" title="source: imgur.com" /></a>
 
-Tài liệu tham khảo: 
+
+## Tài liệu tham khảo: 
 [GoogleScholar.pdf](https://github.com/huuvinhnhv/CS2205.CH1501/files/6157241/GoogleScholar.pdf)
 
