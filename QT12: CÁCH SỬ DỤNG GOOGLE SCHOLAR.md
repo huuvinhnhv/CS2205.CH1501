@@ -1,3 +1,4 @@
+
 ## Cách truy cập vào trang Google Scholar:
 
 1. Đăng nhập [Google Email](https://mail.google.com/).
@@ -26,6 +27,8 @@
 
 <a href="https://imgur.com/7Xlswrz"><img src="https://i.imgur.com/7Xlswrz.png" title="source: imgur.com" /></a>
 
+## Tạo hồ sơ:
+
 - Quản lý hồ sơ: 
 
 <a href="https://imgur.com/p8WiYlA"><img src="https://i.imgur.com/p8WiYlA.png" title="source: imgur.com" /></a>
@@ -34,6 +37,22 @@
 
 <a href="https://imgur.com/a825SJL"><img src="https://i.imgur.com/a825SJL.png" title="source: imgur.com" /></a>
 
-- Cài đặt bài viết:
+- Cài đặt bài viết (nếu có):
 
 <a href="https://imgur.com/GURhxOM"><img src="https://i.imgur.com/GURhxOM.png" title="source: imgur.com" /></a>
+
+- Chọn xong để hoàn thành hồ sơ:
+
+<a href="https://imgur.com/0wsUpwc"><img src="https://i.imgur.com/0wsUpwc.png" title="source: imgur.com" /></a>
+
+## Quản lý bài viết:
+
+- Thêm bài viết đã có hoặc thủ công
+
+<a href="https://imgur.com/4YzTdhK"><img src="https://i.imgur.com/4YzTdhK.png" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/tDf4Mom"><img src="https://i.imgur.com/tDf4Mom.png" title="source: imgur.com" /></a>
+
+Tài liệu tham khảo: 
+[GoogleScholar.pdf](https://github.com/huuvinhnhv/CS2205.CH1501/files/6157241/GoogleScholar.pdf)
+
