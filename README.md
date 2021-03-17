@@ -1,13 +1,25 @@
 # CS2205.CH1501
+ 
+## Thông tin cá nhân
 
-CS2205.CH1501 Phương pháp nghiên cứu khoa học.
+- Họ và tên: Nguyễn Hữu Vinh
 
-Họ và tên: Nguyễn Hữu Vinh
+- Ngày sinh: 12/03/1993
 
-Ngày sinh: 12/03/1993
+- Ngành: Khoa học máy tính
 
-Mã HV: CH2001042
+- Mã HV: CH2001042
 
-Khóa: 15
+- Khóa: 15
 
-Ngành: Khoa Học Máy Tính
+- Sở thích: cầu lông, bida, lập trình
+
+- Email: huuvinhnhv@gmail.com
+
+## Thông tin nhóm
+
+- Nguyễn Hữu Vinh - CH2001042 - Repos: https://github.com/huuvinhnhv/CS2205.CH1501
+
+- Nguyễn Phúc Thịnh - CH2001038 - Repos: https://github.com/thinhnguyen0803/CS2205.CH1501
+
+- Nguyễn Xuân Thảo - - Repos: https://github.com/thaoqwerty/CS2205.CH1501
