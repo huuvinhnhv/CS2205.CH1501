@@ -8,7 +8,6 @@
 3. Các chủ đề nghiên cứu (research topic) là gì?
     + Object recognition
     + Image classification 
-    + Recognition and classification
 
 4. Các bài toán nghiên cứu là gì?
 ....
